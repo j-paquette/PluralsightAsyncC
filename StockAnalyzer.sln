@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyzer.Windows", "..\..\..\Users\josee.n.paquette\Documents\OnlineCourses\ApplyingAsynchronousProgramming\04\demos\Windows\Start_Here\StockAnalyzer.Windows\StockAnalyzer.Windows.csproj", "{C8F01325-3AA2-4435-A55F-CF411820FB90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyzer.Windows", "StockAnalyzer.Windows\StockAnalyzer.Windows.csproj", "{C8F01325-3AA2-4435-A55F-CF411820FB90}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockAnalyzer.Core", "..\..\..\Users\josee.n.paquette\Documents\OnlineCourses\ApplyingAsynchronousProgramming\04\demos\Windows\Start_Here\StockAnalyzer.Core\StockAnalyzer.Core.csproj", "{4571844D-AD38-44DA-B934-980858C5EB00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockAnalyzer.Core", "StockAnalyzer.Core\StockAnalyzer.Core.csproj", "{4571844D-AD38-44DA-B934-980858C5EB00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyzer.Web", "..\..\..\Users\josee.n.paquette\Documents\OnlineCourses\ApplyingAsynchronousProgramming\04\demos\Windows\Start_Here\StockAnalyzer.Web\StockAnalyzer.Web.csproj", "{661418E5-599A-4C94-B3AC-089EACBF2836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockAnalyzer.Web", "StockAnalyzer.Web\StockAnalyzer.Web.csproj", "{661418E5-599A-4C94-B3AC-089EACBF2836}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
